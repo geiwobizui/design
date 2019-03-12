@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>com.wcq.factory.abs.AbsFactory</OriginalElement>
+  <nodes>
+    <node x="137.0857142857143" y="405.0">com.wcq.factory.abs.Test3</node>
+    <node x="684.0857142857143" y="134.5">com.wcq.factory.abs.GLAirConditioner</node>
+    <node x="670.317857142857" y="0.0">com.wcq.factory.abs.AirConditioner</node>
+    <node x="235.08571428571426" y="123.0">com.wcq.factory.abs.AbsFactory</node>
+    <node x="91.08571428571429" y="279.0">com.wcq.factory.abs.GLFactory</node>
+    <node x="142.98928571428564" y="0.0">com.wcq.factory.abs.Fridge</node>
+    <node x="522.0857142857143" y="134.5">com.wcq.factory.abs.HEFridge</node>
+    <node x="882.0857142857143" y="134.5">com.wcq.factory.abs.HEAirConditioner</node>
+    <node x="10.5" y="134.5">com.wcq.factory.abs.GLFridge</node>
+    <node x="459.5857142857143" y="279.0">com.wcq.factory.abs.HEFactory</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="com.wcq.factory.abs.HEFridge" target="com.wcq.factory.abs.Fridge">
+      <point x="0.0" y="-26.5" />
+      <point x="593.0857142857143" y="73.0" />
+      <point x="270.78928571428565" y="73.0" />
+      <point x="56.80000000000001" y="26.5" />
+    </edge>
+    <edge source="com.wcq.factory.abs.HEFactory" target="com.wcq.factory.abs.Fridge">
+      <point x="-106.80000000000007" y="-38.0" />
+      <point x="486.2857142857142" y="229.0" />
+      <point x="213.58571428571426" y="229.0" />
+      <point x="0.0" y="26.5" />
+    </edge>
+    <edge source="com.wcq.factory.abs.GLFactory" target="com.wcq.factory.abs.AirConditioner">
+      <point x="0.0" y="-38.0" />
+      <point x="224.58571428571426" y="93.0" />
+      <point x="688.1178571428569" y="93.0" />
+      <point x="-71.20000000000005" y="26.5" />
+    </edge>
+    <edge source="com.wcq.factory.abs.AbsFactory" target="com.wcq.factory.abs.Fridge">
+      <point x="-66.75" y="-38.0" />
+      <point x="301.8357142857143" y="83.0" />
+      <point x="242.38928571428562" y="83.0" />
+      <point x="28.399999999999977" y="26.5" />
+    </edge>
+    <edge source="com.wcq.factory.abs.HEFactory" target="com.wcq.factory.abs.HEAirConditioner">
+      <point x="53.39999999999998" y="-38.0" />
+      <point x="646.4857142857143" y="249.0" />
+      <point x="971.0857142857143" y="249.0" />
+      <point x="0.0" y="26.5" />
+    </edge>
+    <edge source="com.wcq.factory.abs.HEFactory" target="com.wcq.factory.abs.HEFridge">
+      <point x="0.0" y="-38.0" />
+      <point x="0.0" y="26.5" />
+    </edge>
+    <edge source="com.wcq.factory.abs.Test3" target="com.wcq.factory.abs.GLFactory">
+      <point x="-43.75" y="-26.5" />
+      <point x="180.8357142857143" y="380.0" />
+      <point x="157.8357142857143" y="380.0" />
+      <point x="-66.75" y="38.0" />
+    </edge>
+    <edge source="com.wcq.factory.abs.HEFactory" target="com.wcq.factory.abs.AirConditioner">
+      <point x="106.79999999999995" y="-38.0" />
+      <point x="699.8857142857142" y="259.0" />
+      <point x="1070.5857142857144" y="259.0" />
+      <point x="1070.5857142857144" y="93.0" />
+      <point x="830.517857142857" y="93.0" />
+      <point x="71.20000000000005" y="26.5" />
+    </edge>
+    <edge source="com.wcq.factory.abs.AbsFactory" target="com.wcq.factory.abs.AirConditioner">
+      <point x="66.75" y="-38.0" />
+      <point x="435.3357142857143" y="103.0" />
+      <point x="723.7178571428569" y="103.0" />
+      <point x="-35.60000000000002" y="26.5" />
+    </edge>
+    <edge source="com.wcq.factory.abs.GLAirConditioner" target="com.wcq.factory.abs.AirConditioner">
+      <point x="0.0" y="-26.5" />
+      <point x="773.0857142857143" y="103.0" />
+      <point x="759.317857142857" y="103.0" />
+      <point x="0.0" y="26.5" />
+    </edge>
+    <edge source="com.wcq.factory.abs.GLFactory" target="com.wcq.factory.abs.GLAirConditioner">
+      <point x="106.80000000000001" y="-38.0" />
+      <point x="331.3857142857143" y="239.0" />
+      <point x="773.0857142857143" y="239.0" />
+      <point x="0.0" y="26.5" />
+    </edge>
+    <edge source="com.wcq.factory.abs.GLFactory" target="com.wcq.factory.abs.Fridge">
+      <point x="-106.80000000000001" y="-38.0" />
+      <point x="117.78571428571428" y="259.0" />
+      <point x="0.0" y="259.0" />
+      <point x="0.0" y="93.0" />
+      <point x="157.18928571428563" y="93.0" />
+      <point x="-56.80000000000001" y="26.5" />
+    </edge>
+    <edge source="com.wcq.factory.abs.HEAirConditioner" target="com.wcq.factory.abs.AirConditioner">
+      <point x="0.0" y="-26.5" />
+      <point x="971.0857142857143" y="103.0" />
+      <point x="794.917857142857" y="103.0" />
+      <point x="35.60000000000002" y="26.5" />
+    </edge>
+    <edge source="com.wcq.factory.abs.GLFactory" target="com.wcq.factory.abs.GLFridge">
+      <point x="-53.400000000000006" y="-38.0" />
+      <point x="171.1857142857143" y="249.0" />
+      <point x="81.5" y="249.0" />
+      <point x="0.0" y="26.5" />
+    </edge>
+    <edge source="com.wcq.factory.abs.GLFridge" target="com.wcq.factory.abs.Fridge">
+      <point x="0.0" y="-26.5" />
+      <point x="81.5" y="103.0" />
+      <point x="185.58928571428567" y="103.0" />
+      <point x="-28.400000000000006" y="26.5" />
+    </edge>
+    <edge source="com.wcq.factory.abs.HEFactory" target="com.wcq.factory.abs.AbsFactory">
+      <point x="-53.39999999999998" y="-38.0" />
+      <point x="539.6857142857143" y="219.0" />
+      <point x="435.3357142857143" y="219.0" />
+      <point x="66.75" y="38.0" />
+    </edge>
+    <edge source="com.wcq.factory.abs.GLFactory" target="com.wcq.factory.abs.AbsFactory">
+      <point x="53.39999999999998" y="-38.0" />
+      <point x="277.98571428571427" y="259.0" />
+      <point x="301.8357142857143" y="259.0" />
+      <point x="-66.75" y="38.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.9737179487179487" x="497.4417379855168" y="221.26398946675445" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>com.wcq.factory.factory.CarFactory</OriginalElement>
+  <nodes>
+    <node x="192.0" y="125.0">com.wcq.factory.factory.Factory</node>
+    <node x="389.0" y="113.0">com.wcq.factory.Train</node>
+    <node x="195.0" y="0.0">com.wcq.factory.Traffic</node>
+    <node x="72.375" y="240.0">com.wcq.factory.factory.CarFactory</node>
+    <node x="0.0" y="113.0">com.wcq.factory.Car</node>
+    <node x="376.796875" y="240.0">com.wcq.factory.factory.TraFactory</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="com.wcq.factory.factory.TraFactory" target="com.wcq.factory.factory.Factory">
+      <point x="-59.0" y="-26.5" />
+      <point x="406.296875" y="215.0" />
+      <point x="324.75" y="215.0" />
+      <point x="44.25" y="26.5" />
+    </edge>
+    <edge source="com.wcq.factory.factory.TraFactory" target="com.wcq.factory.Traffic">
+      <point x="59.0" y="-26.5" />
+      <point x="524.296875" y="215.0" />
+      <point x="570.5" y="215.0" />
+      <point x="570.5" y="73.0" />
+      <point x="353.7857142857143" y="73.0" />
+      <point x="73.28571428571428" y="26.5" />
+    </edge>
+    <edge source="com.wcq.factory.Train" target="com.wcq.factory.Traffic">
+      <point x="-42.75" y="-38.5" />
+      <point x="431.75" y="93.0" />
+      <point x="304.92857142857144" y="93.0" />
+      <point x="24.428571428571445" y="26.5" />
+    </edge>
+    <edge source="com.wcq.factory.factory.CarFactory" target="com.wcq.factory.Car">
+      <point x="-59.0" y="-26.5" />
+      <point x="101.875" y="215.0" />
+      <point x="85.5" y="215.0" />
+      <point x="0.0" y="38.5" />
+    </edge>
+    <edge source="com.wcq.factory.factory.CarFactory" target="com.wcq.factory.Traffic">
+      <point x="0.0" y="-26.5" />
+      <point x="160.875" y="215.0" />
+      <point x="181.5" y="215.0" />
+      <point x="181.5" y="93.0" />
+      <point x="256.07142857142856" y="93.0" />
+      <point x="-24.428571428571445" y="26.5" />
+    </edge>
+    <edge source="com.wcq.factory.Car" target="com.wcq.factory.Traffic">
+      <point x="-42.75" y="-38.5" />
+      <point x="42.75" y="73.0" />
+      <point x="207.21428571428572" y="73.0" />
+      <point x="-73.28571428571428" y="26.5" />
+    </edge>
+    <edge source="com.wcq.factory.factory.CarFactory" target="com.wcq.factory.factory.Factory">
+      <point x="59.0" y="-26.5" />
+      <point x="219.875" y="215.0" />
+      <point x="236.25" y="215.0" />
+      <point x="-44.25" y="26.5" />
+    </edge>
+    <edge source="com.wcq.factory.factory.Factory" target="com.wcq.factory.Traffic">
+      <point x="0.0" y="-26.5" />
+      <point x="0.0" y="26.5" />
+    </edge>
+    <edge source="com.wcq.factory.factory.TraFactory" target="com.wcq.factory.Train">
+      <point x="0.0" y="-26.5" />
+      <point x="465.296875" y="215.0" />
+      <point x="474.5" y="215.0" />
+      <point x="0.0" y="38.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="187.0" y="190.5" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
