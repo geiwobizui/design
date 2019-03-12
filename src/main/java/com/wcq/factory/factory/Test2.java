@@ -1,6 +1,6 @@
-package wcq.factory;
+package com.wcq.factory.factory;
 
-import wcq.Traffic;
+import com.wcq.factory.Traffic;
 
 public class Test2 {
 	public static void main(String[] args) {

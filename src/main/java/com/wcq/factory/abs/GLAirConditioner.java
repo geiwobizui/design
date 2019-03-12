@@ -1,8 +1,8 @@
 package com.wcq.factory.abs;
 
-public class GLFridge implements Fridge{
+public class GLAirConditioner implements AirConditioner{
     @Override
-    public void frozen() {
-        System.out.println("GLFridge bing dong");
+    public void refrigeration() {
+        System.out.println("GLAirConditioner zhi leng");
     }
 }

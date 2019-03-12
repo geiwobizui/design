@@ -1,4 +1,4 @@
-package wcq;
+package com.wcq.factory;
 
 public class Train implements Traffic {
 	public Train(){}

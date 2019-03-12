@@ -1,13 +1,13 @@
 package com.wcq.factory.abs;
 
-public class HE implements AbsFactory{
+public class HEFactory implements AbsFactory{
     @Override
     public Fridge getFridge() {
-        return null;
+        return new HEFridge();
     }
 
     @Override
     public AirConditioner getAirConditioner() {
-        return null;
+        return new HEAirConditioner();
     }
 }

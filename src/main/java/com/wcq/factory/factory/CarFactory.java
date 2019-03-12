@@ -1,7 +1,7 @@
-package wcq.factory;
+package com.wcq.factory.factory;
 
-import wcq.Car;
-import wcq.Traffic;
+import com.wcq.factory.Car;
+import com.wcq.factory.Traffic;
 
 public class CarFactory implements Factory {
 
