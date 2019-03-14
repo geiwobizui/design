@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>com.wcq.strategy.casetwo</OriginalElement>
+  <nodes>
+    <node x="33.49999999999994" y="0.0">com.wcq.strategy.casetwo.Message</node>
+    <node x="276.75992063492066" y="711.0">com.wcq.strategy.casetwo.CaseTwoTest</node>
+    <node x="115.99999999999994" y="173.0">com.wcq.strategy.casetwo.Pay</node>
+    <node x="364.875" y="263.0">com.wcq.strategy.casetwo.PayEnum</node>
+    <node x="231.87499999999997" y="297.5">com.wcq.strategy.casetwo.WeChatPay</node>
+    <node x="26.87499999999997" y="297.5">com.wcq.strategy.casetwo.JDPay</node>
+    <node x="31.230158730158735" y="412.0">com.wcq.strategy.casetwo.PayStrategy</node>
+    <node x="129.87499999999997" y="297.5">com.wcq.strategy.casetwo.AliPay</node>
+    <node x="160.25992063492066" y="538.0">com.wcq.strategy.casetwo.Order</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="com.wcq.strategy.casetwo.PayStrategy" target="com.wcq.strategy.casetwo.WeChatPay">
+      <point x="63.0" y="-38.0" />
+      <point x="220.23015873015873" y="382.0" />
+      <point x="288.375" y="382.0" />
+      <point x="0.0" y="15.0" />
+    </edge>
+    <edge source="com.wcq.strategy.casetwo.PayStrategy" target="com.wcq.strategy.casetwo.AliPay">
+      <point x="21.0" y="-38.0" />
+      <point x="178.23015873015873" y="392.0" />
+      <point x="170.87499999999997" y="392.0" />
+      <point x="0.0" y="15.0" />
+    </edge>
+    <edge source="com.wcq.strategy.casetwo.AliPay" target="com.wcq.strategy.casetwo.Pay">
+      <point x="0.0" y="-15.0" />
+      <point x="170.87499999999997" y="243.0" />
+      <point x="155.66666666666663" y="243.0" />
+      <point x="5.666666666666686" y="15.0" />
+    </edge>
+    <edge source="com.wcq.strategy.casetwo.CaseTwoTest" target="com.wcq.strategy.casetwo.Order">
+      <point x="0.0" y="-15.0" />
+      <point x="59.5" y="61.5" />
+    </edge>
+    <edge source="com.wcq.strategy.casetwo.Pay" target="com.wcq.strategy.casetwo.Message">
+      <point x="17.0" y="-15.0" />
+      <point x="166.99999999999994" y="148.0" />
+      <point x="179.12499999999994" y="148.0" />
+      <point x="29.125" y="61.5" />
+    </edge>
+    <edge source="com.wcq.strategy.casetwo.JDPay" target="com.wcq.strategy.casetwo.Pay">
+      <point x="0.0" y="-15.0" />
+      <point x="67.87499999999997" y="233.0" />
+      <point x="132.99999999999994" y="233.0" />
+      <point x="-17.0" y="15.0" />
+    </edge>
+    <edge source="com.wcq.strategy.casetwo.Order" target="com.wcq.strategy.casetwo.PayStrategy">
+      <point x="-29.750000000000057" y="-61.5" />
+      <point x="249.5099206349206" y="508.0" />
+      <point x="157.23015873015873" y="508.0" />
+      <point x="0.0" y="38.0" />
+    </edge>
+    <edge source="com.wcq.strategy.casetwo.Order" target="com.wcq.strategy.casetwo.Pay">
+      <point x="89.24999999999994" y="-61.5" />
+      <point x="368.5099206349206" y="518.0" />
+      <point x="498.0515873015873" y="518.0" />
+      <point x="498.0515873015873" y="223.0" />
+      <point x="178.33333333333326" y="223.0" />
+      <point x="28.333333333333314" y="15.0" />
+    </edge>
+    <edge source="com.wcq.strategy.casetwo.Order" target="com.wcq.strategy.casetwo.Message">
+      <point x="-89.25000000000006" y="-61.5" />
+      <point x="190.0099206349206" y="518.0" />
+      <point x="0.0" y="518.0" />
+      <point x="0.0" y="148.0" />
+      <point x="62.62499999999994" y="148.0" />
+      <point x="-87.375" y="61.5" />
+    </edge>
+    <edge source="com.wcq.strategy.casetwo.PayStrategy" target="com.wcq.strategy.casetwo.JDPay">
+      <point x="-63.0" y="-38.0" />
+      <point x="94.23015873015873" y="392.0" />
+      <point x="67.87499999999997" y="392.0" />
+      <point x="0.0" y="15.0" />
+    </edge>
+    <edge source="com.wcq.strategy.casetwo.WeChatPay" target="com.wcq.strategy.casetwo.Pay">
+      <point x="0.0" y="-15.0" />
+      <point x="288.375" y="233.0" />
+      <point x="166.99999999999994" y="233.0" />
+      <point x="17.0" y="15.0" />
+    </edge>
+    <edge source="com.wcq.strategy.casetwo.PayStrategy" target="com.wcq.strategy.casetwo.Pay">
+      <point x="-21.0" y="-38.0" />
+      <point x="136.23015873015873" y="392.0" />
+      <point x="119.37499999999997" y="392.0" />
+      <point x="119.37499999999997" y="243.0" />
+      <point x="144.33333333333326" y="243.0" />
+      <point x="-5.666666666666686" y="15.0" />
+    </edge>
+    <edge source="com.wcq.strategy.casetwo.PayStrategy" target="com.wcq.strategy.casetwo.PayEnum">
+      <point x="105.0" y="-38.0" />
+      <point x="262.23015873015873" y="392.0" />
+      <point x="394.625" y="392.0" />
+      <point x="-29.75" y="49.5" />
+    </edge>
+    <edge source="com.wcq.strategy.casetwo.CaseTwoTest" target="com.wcq.strategy.casetwo.Message">
+      <point x="41.33333333333337" y="-15.0" />
+      <point x="380.09325396825403" y="686.0" />
+      <point x="520.0" y="686.0" />
+      <point x="520.0" y="148.0" />
+      <point x="237.37499999999994" y="148.0" />
+      <point x="87.375" y="61.5" />
+    </edge>
+    <edge source="com.wcq.strategy.casetwo.Order" target="com.wcq.strategy.casetwo.PayEnum">
+      <point x="29.749999999999943" y="-61.5" />
+      <point x="309.0099206349206" y="508.0" />
+      <point x="454.125" y="508.0" />
+      <point x="29.75" y="49.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.9746835443037973" x="477.36129069168715" y="449.37012987012986" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Constructors</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
