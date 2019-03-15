@@ -2,40 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="66fd92ab-0b4d-4923-a6d1-99817665b2e8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wcq/delegate/ReadMe.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wcq/delegate/caseone/Boss.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wcq/delegate/caseone/CaseOneTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wcq/delegate/caseone/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wcq/delegate/caseone/EmployeeA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wcq/delegate/caseone/EmployeeB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wcq/delegate/caseone/Leader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wcq/delegate/caseone/caseone.uml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wcq/strategy/ReadMe.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wcq/strategy/caseone/PromotionActivity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wcq/strategy/caseone/PromotionFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wcq/strategy/caseone/PromotionWay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wcq/strategy/caseone/PromotionWayA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wcq/strategy/caseone/PromotionWayB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wcq/strategy/caseone/PromotionWayC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wcq/strategy/caseone/StrategyTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wcq/strategy/casetwo/AliPay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wcq/strategy/casetwo/CaseTwoTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wcq/strategy/casetwo/JDPay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wcq/strategy/casetwo/Message.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wcq/strategy/casetwo/Order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wcq/strategy/casetwo/Pay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wcq/strategy/casetwo/PayEnum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wcq/strategy/casetwo/PayStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wcq/strategy/casetwo/WeChatPay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wcq/strategy/casetwo/casetwo.uml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wcq/strategy/delegateandstrategy/AController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wcq/strategy/delegateandstrategy/BController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wcq/strategy/delegateandstrategy/CController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wcq/strategy/delegateandstrategy/DispatcherServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/wcq/adapter/ThreeSlot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/wcq/adapter/ThreeSlotExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/wcq/adapter/TwoSlot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/wcq/adapter/classadapter/ClassAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/wcq/adapter/classadapter/ClassAdapterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/wcq/adapter/interfaceadapter/AllMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/wcq/adapter/interfaceadapter/AllMethodAbstract.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/wcq/adapter/interfaceadapter/InterfaceAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/wcq/adapter/interfaceadapter/InterfaceAdapterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/wcq/adapter/objectadapter/ObjectAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/wcq/adapter/objectadapter/ObjectAdapterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/wcq/template/Entity/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/wcq/template/JDBCTemplate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/wcq/template/UserDao.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -54,116 +35,121 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/wcq/strategy/ReadMe.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="38">
-                <caret line="28" column="17" selection-start-line="28" selection-start-column="17" selection-end-line="28" selection-end-column="17" />
-              </first_editor>
-              <second_editor />
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/wcq/adapter/classadapter/ClassAdapter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#215#216#0" expanded="true" />
+                <element signature="e#235#236#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/wcq/strategy/delegateandstrategy/AController.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/wcq/adapter/classadapter/ClassAdapterTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="59" selection-start-line="5" selection-start-column="59" selection-end-line="5" selection-end-column="59" />
+              <folding>
+                <element signature="e#126#127#0" expanded="true" />
+                <element signature="e#167#168#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/wcq/adapter/objectadapter/ObjectAdapter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="107">
+              <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#247#248#0" expanded="true" />
+                <element signature="e#303#304#0" expanded="true" />
+                <element signature="e#347#348#0" expanded="true" />
+                <element signature="e#393#394#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/wcq/adapter/objectadapter/ObjectAdapterTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+              <folding>
+                <element signature="e#116#117#0" expanded="true" />
+                <element signature="e#154#155#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/wcq/adapter/interfaceadapter/AllMethod.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="13" lean-forward="true" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/wcq/adapter/interfaceadapter/AllMethodAbstract.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="51">
-              <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
-              <folding>
-                <element signature="e#89#90#0" expanded="true" />
-                <element signature="e#108#109#0" expanded="true" />
-              </folding>
+              <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="11" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/wcq/strategy/delegateandstrategy/DispatcherServlet.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/wcq/adapter/interfaceadapter/InterfaceAdapter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="25" lean-forward="true" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
+            <state relative-caret-position="192">
+              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
               <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#361#370#0" expanded="true" />
-                <element signature="e#1362#1363#0" expanded="true" />
-                <element signature="e#1403#1404#0" expanded="true" />
-                <element signature="e#1545#1546#0" expanded="true" />
-                <element signature="e#1579#1580#0" expanded="true" />
-                <element signature="e#1696#1697#0" expanded="true" />
-                <element signature="e#1733#1734#0" expanded="true" />
+                <element signature="e#146#147#0" expanded="true" />
+                <element signature="e#187#188#0" expanded="true" />
+                <element signature="e#224#225#0" expanded="true" />
+                <element signature="e#265#266#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/wcq/delegate/ReadMe.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="238">
-                <caret line="14" column="36" lean-forward="true" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/wcq/strategy/delegateandstrategy/CController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/wcq/strategy/delegateandstrategy/BController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/build.gradle">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" selection-start-line="19" selection-end-line="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/wcq/strategy/casetwo/PayStrategy.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" selection-start-line="17" selection-end-line="17" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#448#449#0" expanded="true" />
-                <element signature="e#537#538#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/wcq/strategy/casetwo/Message.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="30" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/wcq/strategy/casetwo/JDPay.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/wcq/adapter/interfaceadapter/InterfaceAdapterTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="136">
-              <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+              <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/wcq/adapter/ThreeSlotExample.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+              <folding>
+                <element signature="e#171#172#0" expanded="true" />
+                <element signature="e#207#208#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/wcq/adapter/TwoSlot.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -174,8 +160,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="package-info" />
-        <option value="Interface" />
         <option value="Enum" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -186,21 +172,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/wcq/prototype/shallowclone/Test.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/wcq/prototype/shallowclone/Test4.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/wcq/prototype/deepclone/Person.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/wcq/prototype/deepclone/MaYun.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/wcq/prototype/deepclone/Company.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/wcq/prototype/deepclone/Test5.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/wcq/proxy/statics/StaticTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/wcq/proxy/statics/StaticProxy.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/wcq/proxy/dynamic/JDKProxy.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/wcq/proxy/dynamic/JDKProxyTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/wcq/proxy/customjdkproxy/MyInvocationHandler.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/wcq/proxy/dynamic/Agency.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/wcq/proxy/customjdkproxy/MyJDKProxyTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/wcq/proxy/customjdkproxy/MyAgency.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/wcq/proxy/customjdkproxy/MyProxy.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/wcq/proxy/customjdkproxy/ReadMe.md" />
         <option value="$PROJECT_DIR$/src/main/java/com/wcq/proxy/customjdkproxy/MyClassLoader.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/wcq/proxy/cglibproxy/CglibAgency.java" />
@@ -237,6 +208,21 @@
         <option value="$PROJECT_DIR$/src/main/java/com/wcq/strategy/delegateandstrategy/BController.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/wcq/strategy/delegateandstrategy/CController.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/wcq/strategy/delegateandstrategy/DispatcherServlet.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/wcq/template/Entity/User.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/wcq/template/UserDao.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/wcq/template/JDBCTemplate.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/wcq/adapter/classadapter/TwoSlot.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/wcq/adapter/ThreeSlot.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/wcq/adapter/TwoSlot.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/wcq/adapter/classadapter/ThreeSlotExample.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/wcq/adapter/classadapter/Adapter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/wcq/adapter/classadapter/ClassAdapterTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/wcq/adapter/objectadapter/ObjectAdapter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/wcq/adapter/objectadapter/ObjectAdapterTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/wcq/adapter/interfaceadapter/AllMethod.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/wcq/adapter/interfaceadapter/AllMethodAbstract.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/wcq/adapter/interfaceadapter/InterfaceAdapterTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/wcq/adapter/interfaceadapter/InterfaceAdapter.java" />
       </list>
     </option>
   </component>
@@ -292,6 +278,25 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="wcq" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="design" type="b2602c69:ProjectViewProjectNode" />
+              <item name="design" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="wcq" type="462c0819:PsiDirectoryNode" />
+              <item name="adapter" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="design" type="b2602c69:ProjectViewProjectNode" />
+              <item name="design" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="wcq" type="462c0819:PsiDirectoryNode" />
+              <item name="adapter" type="462c0819:PsiDirectoryNode" />
+              <item name="interfaceadapter" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -303,7 +308,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552560319560" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552620050251" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/wcq/delegate/caseone" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -343,20 +348,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CaseTwoTest">
-    <configuration name="CaseOneTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.wcq.delegate.caseone.CaseOneTest" />
-      <module name="com.design.wcq.design.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.wcq.delegate.caseone.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.InterfaceAdapterTest">
     <configuration name="CaseTwoTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.wcq.strategy.casetwo.CaseTwoTest" />
       <module name="com.design.wcq.design.main" />
@@ -370,12 +362,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CglibProxyTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.wcq.proxy.cglibproxy.CglibProxyTest" />
+    <configuration name="ClassAdapterTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wcq.adapter.classadapter.ClassAdapterTest" />
       <module name="com.design.wcq.design.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.wcq.proxy.cglibproxy.*" />
+          <option name="PATTERN" value="com.wcq.adapter.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -383,12 +375,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyJDKProxyTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.wcq.proxy.customjdkproxy.MyJDKProxyTest" />
+    <configuration name="InterfaceAdapterTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wcq.adapter.interfaceadapter.InterfaceAdapterTest" />
       <module name="com.design.wcq.design.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.wcq.proxy.customjdkproxy.*" />
+          <option name="PATTERN" value="com.wcq.adapter.interfaceadapter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ObjectAdapterTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wcq.adapter.objectadapter.ObjectAdapterTest" />
+      <module name="com.design.wcq.design.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wcq.adapter.objectadapter.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -411,11 +416,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.InterfaceAdapterTest" />
+        <item itemvalue="Application.ObjectAdapterTest" />
+        <item itemvalue="Application.ClassAdapterTest" />
         <item itemvalue="Application.CaseTwoTest" />
         <item itemvalue="Application.StrategyTest" />
-        <item itemvalue="Application.CaseOneTest" />
-        <item itemvalue="Application.CglibProxyTest" />
-        <item itemvalue="Application.MyJDKProxyTest" />
       </list>
     </recent_temporary>
   </component>
@@ -432,7 +437,7 @@
       <workItem from="1551839821123" duration="10220000" />
       <workItem from="1552190463691" duration="3152000" />
       <workItem from="1552350730642" duration="35516000" />
-      <workItem from="1552522167958" duration="24968000" />
+      <workItem from="1552522167958" duration="36498000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1552357892919</created>
@@ -462,16 +467,24 @@
       <option name="project" value="LOCAL" />
       <updated>1552447196443</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="1">
+      <created>1552561414068</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1552561414068</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="73856000" />
+    <option name="totallyTimeSpent" value="85386000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24508321" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24508321" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -481,7 +494,7 @@
       <window_info anchor="bottom" id="Messages" order="0" />
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="bottom" id="Find" order="2" />
-      <window_info anchor="bottom" id="Run" order="3" visible="true" weight="0.12274959" />
+      <window_info active="true" anchor="bottom" id="Run" order="3" visible="true" weight="0.24222586" />
       <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
@@ -512,117 +525,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/wcq/proxy/customjdkproxy/MyAgency.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/wcq/proxy/customjdkproxy/MyInvocationHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="30" lean-forward="true" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_45/jre/lib/rt.jar!/sun/reflect/NativeConstructorAccessorImpl.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
-          <caret line="33" column="39" selection-start-line="33" selection-start-column="39" selection-end-line="33" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_45/jre/lib/rt.jar!/sun/reflect/ConstructorAccessorImpl.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="13" column="27" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/wcq/proxy/customjdkproxy/MyJDKProxyTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/wcq/proxy/customjdkproxy/MyClassLoader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="30" column="21" selection-start-line="30" selection-start-column="21" selection-end-line="30" selection-end-column="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_45/jre/lib/rt.jar!/sun/reflect/BootstrapConstructorAccessorImpl.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="17" column="18" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_45/jre/lib/rt.jar!/sun/reflect/ConstructorAccessor.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_45/src.zip!/java/lang/reflect/Constructor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="205">
-          <caret line="421" column="31" selection-start-line="421" selection-start-column="31" selection-end-line="421" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/wcq/proxy/package-info.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/wcq/proxy/customjdkproxy/MyProxy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="64" column="55" selection-start-line="64" selection-start-column="55" selection-end-line="64" selection-end-column="55" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/cglib/cglib/3.2.10/3413fb251018c11f0dd4a6681bd16a050cb26d05/cglib-3.2.10-sources.jar!/net/sf/cglib/proxy/MethodInterceptor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="334">
-          <caret line="38" column="18" selection-start-line="38" selection-start-column="18" selection-end-line="38" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/wcq/proxy/customjdkproxy/ReadMe.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="289">
-            <caret line="17" column="61" selection-start-line="17" selection-start-column="61" selection-end-line="17" selection-end-column="61" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_45/src.zip!/java/lang/reflect/Proxy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="214">
-          <caret line="738" column="33" selection-start-line="738" selection-start-column="33" selection-end-line="738" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/wcq/proxy/ReadMe.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="272">
-            <caret line="16" column="16" lean-forward="true" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/wcq/proxy/cglibproxy/CglibProxyTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
@@ -965,17 +867,72 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/wcq/strategy/casetwo/Message.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="30" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/wcq/strategy/ReadMe.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="54">
+            <caret line="28" column="17" selection-start-line="28" selection-start-column="17" selection-end-line="28" selection-end-column="17" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/wcq/strategy/casetwo/JDPay.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/wcq/strategy/delegateandstrategy/AController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+        <state relative-caret-position="51">
+          <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
+          <folding>
+            <element signature="e#89#90#0" expanded="true" />
+            <element signature="e#108#109#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/wcq/strategy/delegateandstrategy/DispatcherServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1240">
+          <caret line="20" column="53" lean-forward="true" selection-start-line="20" selection-start-column="53" selection-end-line="20" selection-end-column="53" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#361#370#0" expanded="true" />
+            <element signature="e#1362#1363#0" expanded="true" />
+            <element signature="e#1403#1404#0" expanded="true" />
+            <element signature="e#1545#1546#0" expanded="true" />
+            <element signature="e#1579#1580#0" expanded="true" />
+            <element signature="e#1696#1697#0" expanded="true" />
+            <element signature="e#1733#1734#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/wcq/delegate/ReadMe.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="238">
+            <caret line="14" column="36" lean-forward="true" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/wcq/strategy/delegateandstrategy/CController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/wcq/strategy/delegateandstrategy/BController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
         </state>
       </provider>
     </entry>
@@ -991,71 +948,174 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/wcq/strategy/ReadMe.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="38">
-            <caret line="28" column="17" selection-start-line="28" selection-start-column="17" selection-end-line="28" selection-end-column="17" />
-          </first_editor>
-          <second_editor />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/wcq/strategy/casetwo/Message.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="30" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/wcq/strategy/casetwo/JDPay.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        <state relative-caret-position="136">
+          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/wcq/strategy/delegateandstrategy/AController.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/wcq/template/Entity/User.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
+        <state relative-caret-position="-34">
+          <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
           <folding>
-            <element signature="e#89#90#0" expanded="true" />
-            <element signature="e#108#109#0" expanded="true" />
+            <element signature="e#177#178#0" expanded="true" />
+            <element signature="e#210#211#0" expanded="true" />
+            <element signature="e#238#239#0" expanded="true" />
+            <element signature="e#269#270#0" expanded="true" />
+            <element signature="e#296#297#0" expanded="true" />
+            <element signature="e#336#337#0" expanded="true" />
+            <element signature="e#368#369#0" expanded="true" />
+            <element signature="e#403#404#0" expanded="true" />
+            <element signature="e#434#435#0" expanded="true" />
+            <element signature="e#482#483#0" expanded="true" />
+            <element signature="e#522#523#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/wcq/strategy/delegateandstrategy/BController.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/wcq/proxy/statics/StaticProxy.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        <state relative-caret-position="68">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/wcq/strategy/delegateandstrategy/CController.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/wcq/template/UserDao.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/wcq/delegate/ReadMe.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="238">
-            <caret line="14" column="36" lean-forward="true" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/wcq/strategy/delegateandstrategy/DispatcherServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="25" lean-forward="true" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
+        <state relative-caret-position="343">
+          <caret line="29" column="5" lean-forward="true" selection-start-line="18" selection-start-column="4" selection-end-line="29" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#361#370#0" expanded="true" />
-            <element signature="e#1362#1363#0" expanded="true" />
-            <element signature="e#1403#1404#0" expanded="true" />
-            <element signature="e#1545#1546#0" expanded="true" />
-            <element signature="e#1579#1580#0" expanded="true" />
-            <element signature="e#1696#1697#0" expanded="true" />
-            <element signature="e#1733#1734#0" expanded="true" />
+            <element signature="e#314#315#0" expanded="true" />
+            <element signature="e#347#348#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/wcq/template/JDBCTemplate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="51" column="34" lean-forward="true" selection-start-line="51" selection-start-column="34" selection-end-line="51" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#257#258#0" expanded="true" />
+            <element signature="e#276#277#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/wcq/adapter/ThreeSlot.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="23" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/wcq/adapter/TwoSlot.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/wcq/adapter/ThreeSlotExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding>
+            <element signature="e#171#172#0" expanded="true" />
+            <element signature="e#207#208#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/wcq/adapter/classadapter/ClassAdapterTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="59" selection-start-line="5" selection-start-column="59" selection-end-line="5" selection-end-column="59" />
+          <folding>
+            <element signature="e#126#127#0" expanded="true" />
+            <element signature="e#167#168#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/wcq/adapter/classadapter/ClassAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#215#216#0" expanded="true" />
+            <element signature="e#235#236#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/wcq/adapter/objectadapter/ObjectAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="107">
+          <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#247#248#0" expanded="true" />
+            <element signature="e#303#304#0" expanded="true" />
+            <element signature="e#347#348#0" expanded="true" />
+            <element signature="e#393#394#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/wcq/adapter/objectadapter/ObjectAdapterTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="e#116#117#0" expanded="true" />
+            <element signature="e#154#155#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/wcq/adapter/interfaceadapter/AllMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="13" lean-forward="true" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/wcq/adapter/interfaceadapter/AllMethodAbstract.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="11" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/wcq/adapter/interfaceadapter/InterfaceAdapterTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/wcq/adapter/interfaceadapter/InterfaceAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="e#146#147#0" expanded="true" />
+            <element signature="e#187#188#0" expanded="true" />
+            <element signature="e#224#225#0" expanded="true" />
+            <element signature="e#265#266#0" expanded="true" />
           </folding>
         </state>
       </provider>
