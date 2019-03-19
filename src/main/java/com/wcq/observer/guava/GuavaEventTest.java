@@ -6,7 +6,7 @@ public class GuavaEventTest {
     public static void main(String[] args) {
         //事件总线 用于注册事件
         EventBus eventBus = new EventBus();
-        //需注册的时间事件
+        //需注册的事件
         GuavaEvent guavaEvent = new GuavaEvent();
         GuavaEventB guavaEventB = new GuavaEventB();
         //注册(添加通知对象)
