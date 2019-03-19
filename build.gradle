@@ -17,5 +17,7 @@ dependencies {
     compile group: 'cglib', name: 'cglib', version: '3.2.10'
     // https://mvnrepository.com/artifact/org.apache.tomcat/tomcat-catalina
     compile group: 'org.apache.tomcat', name: 'tomcat-catalina', version: '9.0.16'
+    // https://mvnrepository.com/artifact/com.google.guava/guava
+    compile group: 'com.google.guava', name: 'guava', version: '27.0.1-jre'
 
 }

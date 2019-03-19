@@ -1,4 +1,4 @@
-package com.wcq.decorator;
+package com.wcq.decorator.Dirnk;
 
 /**
  * IO的实现就是用的装饰者模式

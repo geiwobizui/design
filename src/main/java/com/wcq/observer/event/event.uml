@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>com.wcq.observer.event</OriginalElement>
+  <nodes>
+    <node x="158.5" y="586.0">com.wcq.observer.event.EventTest</node>
+    <node x="97.0" y="311.0">com.wcq.observer.event.EventListener</node>
+    <node x="0.0" y="506.0">com.wcq.observer.event.MouseEventCallback</node>
+    <node x="343.0" y="219.0">com.wcq.observer.event.MouseEventType</node>
+    <node x="188.0" y="506.0">com.wcq.observer.event.Mouse</node>
+    <node x="80.32499999999996" y="0.0">com.wcq.observer.event.Event</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="com.wcq.observer.event.Mouse" target="com.wcq.observer.event.MouseEventType">
+      <point x="22.0" y="-15.0" />
+      <point x="254.0" y="481.0" />
+      <point x="397.75" y="481.0" />
+      <point x="-54.75" y="118.5" />
+    </edge>
+    <edge source="com.wcq.observer.event.EventTest" target="com.wcq.observer.event.MouseEventType">
+      <point x="41.19999999999999" y="-15.0" />
+      <point x="251.2" y="566.0" />
+      <point x="507.25" y="566.0" />
+      <point x="54.75000000000003" y="118.5" />
+    </edge>
+    <edge source="com.wcq.observer.event.MouseEventCallback" target="com.wcq.observer.event.Event">
+      <point x="0.0" y="-15.0" />
+      <point x="84.0" y="194.0" />
+      <point x="100.52499999999998" y="194.0" />
+      <point x="-80.79999999999998" y="84.5" />
+    </edge>
+    <edge source="com.wcq.observer.event.EventTest" target="com.wcq.observer.event.Mouse">
+      <point x="0.0" y="-15.0" />
+      <point x="-22.0" y="15.0" />
+    </edge>
+    <edge source="com.wcq.observer.event.EventListener" target="com.wcq.observer.event.Event">
+      <point x="84.75" y="-26.5" />
+      <point x="294.75" y="194.0" />
+      <point x="262.125" y="194.0" />
+      <point x="80.80000000000004" y="84.5" />
+    </edge>
+    <edge source="com.wcq.observer.event.Mouse" target="com.wcq.observer.event.EventListener">
+      <point x="-22.0" y="-15.0" />
+      <point x="0.0" y="26.5" />
+    </edge>
+    <edge source="com.wcq.observer.event.EventTest" target="com.wcq.observer.event.MouseEventCallback">
+      <point x="-41.19999999999999" y="-15.0" />
+      <point x="168.8" y="566.0" />
+      <point x="42.0" y="566.0" />
+      <point x="-42.0" y="15.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.8894459102902373" x="514.8587788881318" y="295.5568080688223" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Constructors</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

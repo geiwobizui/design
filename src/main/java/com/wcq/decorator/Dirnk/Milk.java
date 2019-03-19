@@ -1,4 +1,4 @@
-package com.wcq.decorator;
+package com.wcq.decorator.Dirnk;
 
 public class Milk extends CondimentDecorator {
     protected Drink drink;
